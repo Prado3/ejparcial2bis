@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1698673876 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\celda.c
+	"celda.h"
+	"arbolPaciente.h"
+
+1698626615 c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\celda.h
+	"arbolPaciente.h"
+	"espeMedica.h"
+
+1698672829 c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\arbolpaciente.h
+	"paciente.h"
+
+1698625460 c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\paciente.h
+
+1698625557 c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\espemedica.h
+	"espeMedica.h"
+
+1698625583 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\espemedica.c
+	"espeMedica.h"
+
+1698625657 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\paceinte.c
+	"paciente.h"
+
+1698692215 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"celda.h"
+	"espeMedica.h"
+	"registro.h"
+
+1698673539 c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\registro.h
+
+1698673689 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\ejparcil2bis\arbolpaciente.c
+	"arbolPaciente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
